@@ -1,0 +1,9 @@
+.login-container {
+    background-color: #f8f9fa; /* Light background color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.card {
+    border: none; /* Remove border */
+}

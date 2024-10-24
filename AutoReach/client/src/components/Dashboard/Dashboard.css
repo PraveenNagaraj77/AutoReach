@@ -1,0 +1,25 @@
+.dashboard {
+    background-color: #f8f9fa; /* Light background color for the dashboard */
+    padding: 20px; /* Add padding around the dashboard */
+}
+
+.navbar {
+    border-bottom: 1px solid #dee2e6; /* Add border to the navbar */
+}
+
+.navbar-nav .nav-link {
+    transition: background-color 0.3s ease; /* Smooth background transition */
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #007bff; /* Change to blue on hover */
+    color: white; /* Change text color to white */
+}
+
+.card {
+    transition: transform 0.2s; /* Add transition effect */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Scale up card on hover */
+}

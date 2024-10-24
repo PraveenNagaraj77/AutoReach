@@ -1,0 +1,13 @@
+.reports {
+    background-color: #f8f9fa; /* Light background for the reports section */
+    padding: 20px; /* Padding around the container */
+    border-radius: 5px; /* Rounded corners for the container */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.placeholder-text {
+    text-align: center; /* Center align the placeholder text */
+    color: #6c757d; /* Grey color for placeholder text */
+    font-size: 1.2rem; /* Font size for better visibility */
+    margin-top: 50px; /* Margin for spacing */
+}

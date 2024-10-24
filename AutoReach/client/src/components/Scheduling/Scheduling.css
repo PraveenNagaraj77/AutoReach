@@ -1,0 +1,26 @@
+.scheduling {
+    background-color: #f8f9fa; /* Light background for the scheduling section */
+    padding: 20px; /* Padding around the container */
+    border-radius: 5px; /* Rounded corners for the container */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.date-picker-container {
+    margin-top: 20px; /* Margin for spacing */
+}
+
+.form-label {
+    font-weight: bold; /* Bold label for better visibility */
+}
+
+.date-picker {
+    border-radius: 0.25rem; /* Rounded corners for the date picker */
+    height: 45px; /* Fixed height for uniformity */
+    box-shadow: none; /* Remove default shadow */
+    transition: border-color 0.2s; /* Smooth transition on focus */
+}
+
+.date-picker:focus {
+    border-color: #007bff; /* Change border color on focus */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Bootstrap focus shadow */
+}
